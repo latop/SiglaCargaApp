@@ -29535,19 +29535,19 @@ buC(){var s,r,q,p,o,n,m,l,k,j,i=null,h=1152,g=t.p,f=A.a([],g)
 for(s=0;s<7;++s)for(r=0;r<24;++r)f.push(A.R(i,new A.lY(B.X,i,i,new A.k2(""+r,i,i,i,i,i,i,i,i,i,i),i),B.k,i,i,new A.aA(A.aM(164,211,238,1),i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,48))
 q=A.aM(141,182,205,1)
 q=A.R(i,A.ch(A.h("Motoristas",i,i,i,i,A.N(i,i,i,i,i,i,i,i,i,i,i,i,i,i,B.K,i,i,!0,i,i,i,i,i,i,i,i),i,i,i),i,i),B.k,i,i,new A.aA(q,i,new A.ct(B.u,new A.bQ(B.p,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,200)
-p=A.R(i,A.ch(A.h("2023-01-01 (Segunda-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(A.aM(176,226,255,1),i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+p=A.R(i,A.ch(A.h("2023-03-27 (Segunda-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(A.aM(176,226,255,1),i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 o=A.aM(176,226,255,1)
-o=A.R(i,A.ch(A.h("2023-01-02 (Ter\xe7a-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(o,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+o=A.R(i,A.ch(A.h("2023-03-28 (Ter\xe7a-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(o,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 n=A.aM(176,226,255,1)
-n=A.R(i,A.ch(A.h("2023-01-03 (Quarta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(n,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+n=A.R(i,A.ch(A.h("2023-03-29 (Quarta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(n,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 m=A.aM(176,226,255,1)
-m=A.R(i,A.ch(A.h("2023-01-04 (Quinta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(m,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+m=A.R(i,A.ch(A.h("2023-03-30 (Quinta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(m,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 l=A.aM(176,226,255,1)
-l=A.R(i,A.ch(A.h("2023-01-05 (Sexta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(l,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+l=A.R(i,A.ch(A.h("2023-03-31 (Sexta-feira)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(l,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 k=A.aM(176,226,255,1)
-k=A.R(i,A.ch(A.h("2023-01-06 (S\xe1bado)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(k,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
+k=A.R(i,A.ch(A.h("2023-04-01 (S\xe1bado)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(k,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)
 j=A.aM(176,226,255,1)
-j=A.y(A.a([q,p,o,n,m,l,k,A.R(i,A.ch(A.h("2023-01-07 (Domingo)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(j,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)],g),B.i,B.Q,B.e,i)
+j=A.y(A.a([q,p,o,n,m,l,k,A.R(i,A.ch(A.h("2023-04-02 (Domingo)",i,i,i,i,i,i,i,i),i,i),B.k,i,i,new A.aA(j,i,new A.ct(B.u,new A.bQ(B.B,1,B.R,-1),B.u,B.u),i,i,i,B.x),i,30,i,i,i,i,i,h)],g),B.i,B.Q,B.e,i)
 k=A.aM(141,182,205,1)
 return A.F(A.a([j,A.y(A.a([A.R(i,A.h("",i,i,i,i,i,i,i,i),B.k,i,i,new A.aA(k,i,new A.ct(B.u,new A.bQ(B.p,1,B.R,-1),new A.bQ(B.p,1,B.R,-1),B.u),i,i,i,B.x),i,30,i,i,i,i,i,200),A.y(f,B.i,B.f,B.e,i)],g),B.i,B.f,B.e,i)],g),B.l,B.f,B.e,B.j)},
 wL:function wL(a){this.a=a},
@@ -101973,7 +101973,7 @@ p=(p==null?$.b=B.b:p).k(0,q,s).CW.length===0}else p=!0}else p=!0
 if(p)p=A.bM(q,4)
 else{p=this.b.t(t.w).f
 r=$.b
-p=A.R(q,A.bB(A.bB(A.F((r==null?$.b=B.b:r).k(0,q,s).CW,B.l,B.f,B.e,B.j),q,B.o,new A.A(0,0,0,0),q,!1,q,!1,B.au),q,B.o,new A.A(0,0,0,0),q,!1,q,!1,B.z),B.k,q,q,q,q,1000,q,q,q,q,q,p.a.a)}return A.R(q,p,B.k,q,q,q,q,600,q,q,q,q,q,1200)},
+p=A.R(q,A.bB(A.bB(A.F((r==null?$.b=B.b:r).k(0,q,s).CW,B.l,B.f,B.e,B.j),q,B.o,q,q,q,q,!1,B.au),q,B.o,q,q,q,q,!1,B.z),B.k,q,q,q,q,1000,q,q,q,q,q,p.a.a)}return A.R(q,p,B.k,q,q,q,q,600,q,q,q,q,q,1200)},
 $S:13}
 A.Eq.prototype={}
 A.De.prototype={
@@ -105392,9 +105392,10 @@ f=A.R(m,A.fv(new A.Z(new A.A(10,0,0,0),A.h(c,m,m,m,m,A.N(m,m,B.m,m,m,m,m,m,m,m,m
 e=$.b
 e=(e==null?$.b=B.b:e).k(0,m,s)
 e.toString
-if(!J.j4(e)){e=$.b
+if(!J.j4(e)){$.e()
+if($.ac().x1.a!==0){e=$.b
 if((e==null?$.b=B.b:e).k(0,m,s).gS().d==null){e=$.b
-e=(e==null?$.b=B.b:e).k(0,m,s).gS().d.length===0}else e=!1}else e=!0
+e=(e==null?$.b=B.b:e).k(0,m,s).gS().d.length===0}else e=!1}else e=!1}else e=!0
 if(e)k=A.bM(m,4)
 else{e=t.p
 d=A.R(m,A.bd7(m,m,B.q9,A.a([A.J4(A.d("Personal Data")),A.J4(A.d("Base")),A.J4(A.d("Attribution")),A.J4(A.d("Fleet")),A.J4(A.d("Position")),A.J4(A.d("Vacation"))],e),B.p),B.k,m,m,m,m,m,m,m,m,m,m,m)
