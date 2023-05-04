@@ -6,10 +6,9 @@ const RESOURCES = {
   "version.json": "97eb7e5a4accf029f26c1f230aa3a9ee",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "cf46f7f07ad5ec9ea98393b4bd4aa625",
-"index.html": "d9d4e4489ee480d1a756e397d997cda0",
-"/": "d9d4e4489ee480d1a756e397d997cda0",
-"main.dart.js": "8b8d7338d41766d2c8a57424c02dd284",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"index.html": "9315140c501a79a67f5e55c3b94470e7",
+"/": "9315140c501a79a67f5e55c3b94470e7",
+"main.dart.js": "30e1446b36f639751ec36effa4f88947",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -74,11 +73,7 @@ const RESOURCES = {
 "assets/assets/icons/folder.svg": "40a82e74e930ac73aa6ccb85d8c5a29c",
 "assets/assets/icons/Documents.svg": "51896b51d35e28711cf4bd218bde185d",
 "assets/assets/icons/excle_file.svg": "dc91b258ecf87f5731fb2ab9ae15a3ec",
-"assets/assets/icons/one_drive.svg": "aa908c0a29eb795606799385cdfc8592",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/icons/one_drive.svg": "aa908c0a29eb795606799385cdfc8592"
 };
 
 // The application shell files that are downloaded before a service worker can
