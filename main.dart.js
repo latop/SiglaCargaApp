@@ -124853,7 +124853,7 @@ m=t.N
 A.z(["Accept","application/json","Authorization",l],m,m)
 p=A.hB(u.e,0,null)
 o=q.glj(q)
-o=A.z(["grant_type","authorization_code","redirect_uri","https://pepsicobrasil.sigla.app/","code",o.gk(o)],m,m)
+o=A.z(["grant_type","authorization_code","redirect_uri","https://pepsicobrasil.sigla.app","code",o.gk(o)],m,m)
 n=t.P
 A.Xh(new A.oB(A.bb(t.Gf)).ou("POST",p,A.z(["Accept","application/json","Authorization",l],m,m),o,null).t(new A.aIM(q),n),new A.aIN(),n,t.K)
 return A.U(null,r)}})
