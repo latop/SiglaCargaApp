@@ -128259,7 +128259,7 @@ $1(a){var s,r=a.c
 if(r===200){r=$.e()
 s=A.d("success")
 A.ab(r,B.C,A.d("removed_successfully"),s)
-A.az(r,"/activity",null,t.z)}else if(r===401){$.e()
+A.az(r,"/line",null,t.z)}else if(r===401){$.e()
 r=$.b
 if(r==null)r=$.b=B.b
 r.k(0,null,t.A).U()}else A.ab($.e(),B.D,"Error on delete",null)},
