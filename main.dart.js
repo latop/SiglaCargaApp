@@ -34329,24 +34329,24 @@ _.w=d
 _.x=e
 _.y=f
 _.z=g},
-bOB(a){var s,r,q,p,o,n,m,l,k="publishedDate",j="awareDate",i="presentationDateActual",h="cutoffDateActual",g=J.ab(a),f=J.pe(g.i(a,"schedules"),new A.aK2(),t.Vp),e=A.aU(f,!0,A.f(f).h("bj.E"))
-g.i(a,"journeyId")
-f=g.i(a,"nickName")
-s=A.cr(g.i(a,"journeyDate"))
-r=g.i(a,"flgStatus")
-g.i(a,"regulated")
-q=g.i(a,k)!=null?A.cr(g.i(a,k)):null
-g.i(a,"publishedUser")
-if(g.i(a,j)!=null)A.cr(g.i(a,j))
-g.i(a,"awareUser")
-p=A.cr(g.i(a,"presentationDate"))
-o=g.i(a,i)!=null?A.cr(g.i(a,i)):null
-n=A.cr(g.i(a,"cutoffDate"))
-m=g.i(a,h)!=null?A.cr(g.i(a,h)):null
-g.i(a,"restTime")
-l=g.i(a,"notes")
-g.i(a,"coloRGB")
-return new A.aK1(f,s,r,q,p,o,n,m,l,e)},
+bOB(a){var s,r,q,p,o,n,m,l,k=null,j="publishedDate",i="awareDate",h="presentationDate",g="presentationDateActual",f="cutoffDate",e="cutoffDateActual",d=J.ab(a),c=J.pe(d.i(a,"schedules"),new A.aK2(),t.Vp),b=A.aU(c,!0,A.f(c).h("bj.E"))
+d.i(a,"journeyId")
+c=d.i(a,"nickName")
+s=A.cr(d.i(a,"journeyDate"))
+r=d.i(a,"flgStatus")
+d.i(a,"regulated")
+q=d.i(a,j)!=null?A.cr(d.i(a,j)):k
+d.i(a,"publishedUser")
+if(d.i(a,i)!=null)A.cr(d.i(a,i))
+d.i(a,"awareUser")
+p=d.i(a,h)!=null?A.cr(d.i(a,h)):k
+o=d.i(a,g)!=null?A.cr(d.i(a,g)):k
+n=d.i(a,f)!=null?A.cr(d.i(a,f)):k
+m=d.i(a,e)!=null?A.cr(d.i(a,e)):k
+d.i(a,"restTime")
+l=d.i(a,"notes")
+d.i(a,"coloRGB")
+return new A.aK1(c,s,r,q,p,o,n,m,l,b)},
 u1:function u1(a,b,c,d,e,f,g,h,i,j){var _=this
 _.c=a
 _.e=b
@@ -136479,17 +136479,17 @@ r=A.o(A.b([r,q,p,o,n,m,A.h(A.r(A.b([l,A.o(A.b([A.hR(40,k!=null?B.h.I(A.UP(k.bl()
 q=A.h(b,10,b)
 p=A.h(A.r(A.b([A.h(b,25,b),A.D("Prevista",b,b,b,b,A.z(b,b,b,b,b,b,b,b,b,b,b,10,b,b,B.w,b,b,!0,b,b,b,b,b,b,b,b),b,b,b),A.h(b,30,b),A.D("Realizada",b,b,b,b,A.z(b,b,b,b,b,b,b,b,b,b,b,10,b,b,B.w,b,b,!0,b,b,b,b,b,b,b,b),b,b,b)],s),B.f,B.d,B.c,B.j),300,70)
 o=A.D("Apresenta\xe7\xe3o / Fim da Jornada",b,b,b,b,A.z(b,b,b,b,b,b,b,b,b,b,b,10,b,b,B.w,b,b,!0,b,b,b,b,b,b,b,b),b,b,b)
-n=B.h.I(A.UP(a6.y.bl()),0,17)
-n=A.hR(40,n,1,1,100)
+n=a6.y
+n=A.hR(40,n!=null?B.h.I(A.UP(n.bl()),0,16):"",1,1,100)
 m=A.h(b,b,10)
-l=B.h.I(A.UP(a6.Q.bl()),0,17)
-n=A.o(A.b([n,m,A.hR(40,l,1,1,100)],s),B.f,B.d,B.c,b)
+l=a6.Q
+n=A.o(A.b([n,m,A.hR(40,l!=null?B.h.I(A.UP(l.bl()),0,16):"",1,1,100)],s),B.f,B.d,B.c,b)
 m=A.h(b,8,b)
 l=a6.z
-l=A.hR(40,l!=null?B.h.I(A.UP(l.bl()),0,17):"",1,1,100)
+l=A.hR(40,l!=null?B.h.I(A.UP(l.bl()),0,16):"",1,1,100)
 k=A.h(b,b,10)
 j=a6.as
-p=A.h(A.o(A.b([p,A.h(A.r(A.b([o,n,m,A.o(A.b([l,k,A.hR(40,j!=null?B.h.I(A.UP(j.bl()),0,17):"",1,1,100)],s),B.f,B.d,B.c,b)],s),B.f,B.d,B.c,B.j),300,220),A.h(b,10,b),A.h(A.r(A.b([A.D("Observa\xe7\xe3o da escala",b,b,b,b,A.z(b,b,b,b,b,b,b,b,b,b,b,10,b,b,B.w,b,b,!0,b,b,b,b,b,b,b,b),b,b,b),A.hR(88,a6.ax,8,8,400)],s),B.f,B.d,B.c,B.j),300,220)],s),B.f,B.d,B.c,b),100,b)
+p=A.h(A.o(A.b([p,A.h(A.r(A.b([o,n,m,A.o(A.b([l,k,A.hR(40,j!=null?B.h.I(A.UP(j.bl()),0,16):"",1,1,100)],s),B.f,B.d,B.c,b)],s),B.f,B.d,B.c,B.j),300,220),A.h(b,10,b),A.h(A.r(A.b([A.D("Observa\xe7\xe3o da escala",b,b,b,b,A.z(b,b,b,b,b,b,b,b,b,b,b,10,b,b,B.w,b,b,!0,b,b,b,b,b,b,b,b),b,b,b),A.hR(88,a6.ax,8,8,400)],s),B.f,B.d,B.c,B.j),300,220)],s),B.f,B.d,B.c,b),100,b)
 o=$.bz()
 n=o.gaM()
 m=o.x
